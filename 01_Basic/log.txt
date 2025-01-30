@@ -1,0 +1,5 @@
+hello From Logfunction now() { [native code] } hello From Log1729356810929 hello From Log17,29,35,68,34,086 hello From Log17,29,35,68,48,422 hello From Log
+17,29,35,68,50,640 hello From Log
+17,29,35,69,67,385 hello From Log
+17,29,35,70,14,747 hello From Log
+17,37,27,87,49,687 hello From Log
